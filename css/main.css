@@ -1,0 +1,35 @@
+h1 {
+  color: #5d5d5d;
+  font-size: 48px;
+  text-align: center;
+}
+
+.board {
+  height: 480px;
+  width: 480px;
+  background: none;
+  border: 15px solid #5d5d5d;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+
+body {
+  color: #FFFFFF;
+  font-size: 90px;
+}
+
+div.box {
+  height: 150px;
+  width: 150px;
+  border: 10px solid #5d5d5d;
+  float: left;
+  text-align: center;
+}
+
+.x {
+  background: blue;
+}
+
+.o {
+  background: red;
+}
